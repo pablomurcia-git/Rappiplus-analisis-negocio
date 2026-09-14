@@ -44,4 +44,3 @@ Priorizar la reducción de fricción en las etapas finales del checkout (pago y 
 - Dashboard: enlace incluido al final del notebook.
 
 ---
-*Nota: las credenciales de la base de datos de entrenamiento (provista por TripleTen) fueron omitidas del notebook por buenas prácticas de seguridad.*
